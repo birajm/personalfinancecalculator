@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm
+.idea/
+*.iml
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Testing
+.coverage
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
